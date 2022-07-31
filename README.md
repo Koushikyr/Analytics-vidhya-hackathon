@@ -17,7 +17,11 @@ Link: https://datahack.analyticsvidhya.com/contest/machine-learning-summer-train
 Approach
 
 Understand the dataset
+
 *Fill in missing values
+
 *Use dummy encoder for categorical features
+
 *using SMOTE to Balence data
+
 *Model building
